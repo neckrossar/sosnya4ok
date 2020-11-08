@@ -1,0 +1,92 @@
+small {
+    color: blueviolet;
+    font-size:12px ;
+}
+
+#c1 {
+    color:black ;
+    font-size: 60px;
+    border: black 1px solid;
+   
+    margin-left: 300px;
+    margin-right: 260px;
+    padding-left:30px ;
+    
+    
+}
+
+#c2 {
+    color: black;
+    font-size:60px ;
+    border:black 1px solid;
+    
+    margin-left: 260px;
+    margin-right: 200px;
+    padding-left:30px
+}
+
+a {
+    color:rgb(3, 22, 41) ;
+}
+
+#cv {
+    color: rgb(238, 36, 137);
+}
+
+#bv {
+  
+   padding-left:30px
+  
+
+
+}
+#hjj {
+  
+    padding-left:30px
+    
+
+
+}
+
+#jk {
+   
+    padding-left:30px ;
+    color: black;
+    
+
+}
+#kl {
+    
+    padding-left:30px
+
+
+}
+#lk {
+    
+    padding-left:30px;
+}
+
+
+
+#nim {
+
+color: black;
+
+
+
+    
+}
+
+
+body {
+    background-image:url(5.jpg);
+    color: black;
+    text-align: center;
+    font-size:20px;
+    font-weight:100px ;
+
+
+}
+
+
+
